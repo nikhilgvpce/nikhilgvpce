@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhilgvpce
+- 👋 Hi, I’m Nikhil
 - 👀 I’m interested in Front end development.
 - 🌱 I’m currently learning HTML, React.
 - 💞️ I’m looking to collaborate on Open Source
